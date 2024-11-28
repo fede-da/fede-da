@@ -1,6 +1,6 @@
 ## Now you're under my genjutsu 幻術
 
-![Genjutsu](https://tenor.com/view/itachi-genjutsu-gif-18745087)
+![Genjutsu](assets/genjutsu.gif)
 
 <!--
 **fede-da/fede-da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
