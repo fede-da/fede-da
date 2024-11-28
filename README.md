@@ -1,6 +1,3 @@
-## Now you're under my genjutsu 幻術
-
-<img src="https://github.com/fede-da/fede-da/blob/main/assets/genjutsu.gif" style="width: 80vw; height: auto;">
 
 <!--
 **fede-da/fede-da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
