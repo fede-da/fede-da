@@ -1,6 +1,6 @@
 ## Now you're under my genjutsu 幻術
 
-![Genjutsu](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fitachi-uchiha-tsukuyomi-genjutsu-mangekyo-sharingan-QP2ewJ&psig=AOvVaw0xA0D7BnOUgnCS_0jzqcg0&ust=1732874515677000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjzyeTi_okDFQAAAAAdAAAAABAE)
+![Genjutsu](https://tenor.com/view/itachi-genjutsu-gif-18745087)
 
 <!--
 **fede-da/fede-da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
